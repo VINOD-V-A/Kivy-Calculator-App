@@ -38,6 +38,10 @@ A simple calculator application built using the Kivy framework in Python.
    - Decimal point button (.): Add a decimal point to the input.
    - Positive/negative button (+/-): Toggle between positive and negative numbers.
    - Equals button (=): Calculate the result.
+ 4. Navigate to the apk file.
+    - you can download the .apk file directly from [Google Drive](YOUR_GOOGLE_DRIVE_LINK_HERE). 
+
+
    
 ## Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvements, feel free to open an issue or submit a pull request.
